@@ -10,12 +10,12 @@ You'll need to have an OpenAI API key to interact with the GPT models. Store thi
 ##### Meta CodeLlama 13B Instruct Model
 This project also requires running a local instance of the Meta CodeLlama 13B Instruct model. To get access to this model, you'll need to obtain permission from Meta AI's resource page.
 
-### Getting Started
+##### Running Chat Interface
 - Clone this repository and navigate to its directory.
 - local forked copy of the LangChain GitHub repo (https://github.com/langchain-ai/langchain)
 - Create a .env file and add your OpenAI API key, https://platform.openai.com/overview. 
 - Obtain permission and download the Meta CodeLlama 13B Instruct model, https://ai.meta.com/resources/models-and-libraries/llama-downloads/
-Run the project following the instructions in the setup guide.
+
 
 
 
